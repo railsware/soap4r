@@ -197,7 +197,7 @@ Gem::Specification.new do |s|
     "lib/xsd/xmlparser.rb", 
     "soap4r.gemspec"
   ]
-  s.homepage = %q{http://github.com/KarateCode/soap4r}
+  s.homepage = %q{http://github.com/railsware/soap4r}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.7.2}
